@@ -1,1 +1,1 @@
-# projet_ynov_B3_spe_info_ced_flo
+# Projet d'architecture logicielle de Florian ARMENOULT et Cédric LESUEUR
